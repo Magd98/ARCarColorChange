@@ -18,5 +18,6 @@ Sorry for the inconvenience...
 Note:Resources Method (ex: Resources.Load) works only when you have a Resources Folder under your assets folder 
 so don't forget to "Make" a resources folder that will have a "Prefabs" folder and a "Materials" folder to be able to load them.
 
+Note: Scene is available under ExampleAssets\Scenes where everything is located there .
 
 Thankkksss .. :) I hope this text clarify things ! :>
